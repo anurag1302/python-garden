@@ -1,6 +1,6 @@
 while True:
 
-    print("***********************Welcome to CALCI**************************")
+    print("***********************WELCOME TO CALCI**************************")
     print("Please Enter 2 numbers")
 
     num1 = input("Enter 1st number \n");
